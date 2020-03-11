@@ -11,9 +11,9 @@ dependencies:
   percent_indicator: ^2.1.1+1
   open_file: ^2.0.3
   round_buttons:
-    path: ../round_buttons
+    git: git://github.com/synw/round_buttons.git
   bg_download:
-    path: ../../../dart/bg_download
+    git: git://github.com/synw/bg_download.git
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
